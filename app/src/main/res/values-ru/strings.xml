@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Checkbox</string>
+    <string name="terms_of_use_checkbox">Я соглашаюсь с Условиями Использования и Политикой Конфиденциальности и даю согласие на обработку предоставленных мною Персональных Данных</string>
+    <string name="continue_button">Продолжить</string>
+    <string name="slide1">Приветствуем!</string>
+    <string name="slide2">Создайте свой мультивалютный кошелек и совершайте транзакции с маленькими комиссиями!</string>
+    <string name="slide3">Инновационные технологии безопасности и анонимности</string>
+</resources>
